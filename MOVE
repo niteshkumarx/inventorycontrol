@@ -1,0 +1,6 @@
+ Product ID: 1001 	Movie name: Romeo  	Producer: YRF
+ Cost: Rs.45.00 	Other Detail :PVR Cinema
+----------------------------------------------------------
+ Product ID: 1002 	Movie name: Dostana  	Producer: YRF
+ Cost: Rs.35.00 	Other Detail :PVR Cinema
+----------------------------------------------------------
